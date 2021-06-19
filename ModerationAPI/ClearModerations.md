@@ -8,6 +8,7 @@ DELETE
 ## Endpoint
 https://api.vrchat.cloud/api/1/user/[ID]/moderations
 
+pmod_00a68f3b-5ea7-4bf5-9825-aa7e904374e2
 ID - the id of the user
 
 ## Requires Authentication
